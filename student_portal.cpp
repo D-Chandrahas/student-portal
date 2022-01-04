@@ -3,7 +3,7 @@
 #include <fstream>
 #include <cstdio>
 #include <cstdlib>
-#include <c_functions.h>
+#include "c_functions.h"
 using namespace std;
 
 
