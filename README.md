@@ -1,2 +1,2 @@
 # student-portal
-works only on windows due to system("") commands
+works only on windows due to system("cls") and system("pause") commands
